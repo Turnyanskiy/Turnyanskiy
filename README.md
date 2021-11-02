@@ -1,4 +1,4 @@
-### Hi there👋
+### Hi, I'm Turnyanskiy! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turnyanskiy)](https://github.com/anuraghazra/github-readme-stats)
 
